@@ -1,0 +1,31 @@
+///////////////////////////////////////////////////////////////////////////////
+// 
+//               DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+//                         Version 2, December 2004
+//
+///////////////////////////////////////////////////////////////////////////////
+// 
+//     Copyright (C) 2015 Kushagra Singh | kushagra14056@iiitd.ac.in
+// 
+///////////////////////////////////////////////////////////////////////////////
+
+{
+    "name": "Unblur Scribd",
+    "description": "Unblur Scribd duh!",
+    "version": "1.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_title": "Make this page red"
+    },
+    "content_scripts": [{
+        "matches": ["http://www.google.com/*"],
+        "js": ["jquery.js", "unblur.js"]
+    }],
+    "manifest_version": 2
+}

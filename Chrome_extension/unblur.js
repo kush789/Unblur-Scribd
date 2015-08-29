@@ -1,0 +1,12 @@
+///////////////////////////////////////////////////////////////////////////////
+// 
+// 				 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+// 				           Version 2, December 2004
+//
+///////////////////////////////////////////////////////////////////////////////
+// 
+//     Copyright (C) 2015 Kushagra Singh | kushagra14056@iiitd.ac.in
+// 
+///////////////////////////////////////////////////////////////////////////////
+
+$('.autogen_class_views_read2_page_blur_promo').remove();$('.between_page_ads').remove();$('.text_layer').css('text-shadow', '0px 0px 0px');$('.text_layer').css('color', '#000');$('.absimg').css('opacity', '1.0');
