@@ -4,10 +4,12 @@ A chrome extension/script to unblur blurred content on Scribd. Due to the way Sc
 
 [Install the chrome extension from here ](https://chrome.google.com/webstore/detail/unblur-scribd/ipdnchmdifflagbbcdcbgobfedeegbcf)
 
-##License
+## License
 
                         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                                 Version 2, December 2004
+
+[WTFPL home page](http://www.wtfpl.net/)
 
 Copyright (C) 2015 Kushagra Singh | kushagra14056@iiitd.ac.in
 
