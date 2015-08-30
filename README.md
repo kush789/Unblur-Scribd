@@ -1,6 +1,6 @@
 #Unblur-Scribd
 
-A chrome extension/script to unblur blurred content on Scribd. Script requires jquery.
+A chrome extension/script to unblur blurred content on Scribd. Due to the way Scribd loads pages, extension needs to be run everytime you come across a blurred page. For a full explainiation [read this. ](http://iamkush.me/article/Viewing-blurred-content-on-Scribd-without-paying)
 
 [Install the chrome extension from here ](https://chrome.google.com/webstore/detail/unblur-scribd/ipdnchmdifflagbbcdcbgobfedeegbcf)
 
