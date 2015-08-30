@@ -1,20 +1,16 @@
 {
     "name": "Unblur Scribd",
     "description": "Unblur Scribd duh!",
-    "version": "1.0",
+    "version": "1.3",
     "permissions": [
         "activeTab"
     ],
     "background": {
-        "scripts": ["background.js"],
+        "scripts": ["jquery.js", "background.js"],
         "persistent": false
     },
     "browser_action": {
-        "default_title": "Make this page red"
+        "default_title": "Unblur this doc"
     },
-    "content_scripts": [{
-        "matches": ["http://www.google.com/*"],
-        "js": ["jquery.js", "unblur.js"]
-    }],
     "manifest_version": 2
 }
