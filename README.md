@@ -1,17 +1,15 @@
 #Unblur-Scribd
 
-Unblur blurred content on Scribd
+A chrome extension/script to unblur blurred content on Scribd. Script requires jquery.
 
+[Install the chrome extension from here ](https://chrome.google.com/webstore/detail/unblur-scribd/ipdnchmdifflagbbcdcbgobfedeegbcf)
 
-Before
---
+##Before
 ![alt tag](http://s23.postimg.org/yy1uuetgr/Screen_Shot_2015_08_30_at_2_26_16_pm.png)
-After
---
+##After
 ![alt tag](http://s15.postimg.org/y5d3pyfvf/Screen_Shot_2015_08_30_at_2_26_27_pm.png)
 
-License
---
+##License
 
                         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                                 Version 2, December 2004
