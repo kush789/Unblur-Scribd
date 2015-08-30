@@ -1,7 +1,17 @@
-# Unblur-Scribd
+#Unblur-Scribd
+
 Unblur blurred content on Scribd
 
-LICENSE
+
+Before
+--
+![alt tag](http://s23.postimg.org/yy1uuetgr/Screen_Shot_2015_08_30_at_2_26_16_pm.png)
+After
+--
+![alt tag](http://s15.postimg.org/y5d3pyfvf/Screen_Shot_2015_08_30_at_2_26_27_pm.png)
+
+License
+--
 
                         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                                 Version 2, December 2004
