@@ -9,4 +9,10 @@
 // 
 ///////////////////////////////////////////////////////////////////////////////
 
-$('.autogen_class_views_read2_page_blur_promo').remove();$('.between_page_ads').remove();$('.text_layer').css('text-shadow', '0px 0px 0px');$('.text_layer').css('color', '#000');$('.absimg').css('opacity', '1.0');
+$('.autogen_class_views_read2_page_blur_promo').remove();
+$('.between_page_ads').remove();
+//$('.text_layer').css('text-shadow', '0px 0px 0px');
+$('.text_layer').css('color', '#000');
+$('.absimg').css('opacity', '1.0');
+$('.text_layer').css('text-shadow','black 0px 0px 0px');
+$('.page_blur_promo').remove(); // Removes pesky ads.
