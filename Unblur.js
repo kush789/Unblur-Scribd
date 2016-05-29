@@ -9,15 +9,10 @@
 // 
 ///////////////////////////////////////////////////////////////////////////////
 
-// Remove the boxes that say you have to pay to view
 $('.autogen_class_views_read2_page_blur_promo').remove();
-
-// Removing irritating addverts
 $('.between_page_ads').remove();
-
-// Unbluring the text
-$('.text_layer').css('text-shadow', '0px 0px 0px');
-
-// Making images darker
+//$('.text_layer').css('text-shadow', '0px 0px 0px');
 $('.text_layer').css('color', '#000');
 $('.absimg').css('opacity', '1.0');
+$('.text_layer').css('text-shadow','black 0px 0px 0px');
+$('.page_blur_promo').remove(); // Removes pesky ads.
