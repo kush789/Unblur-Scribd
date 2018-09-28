@@ -13,8 +13,11 @@ function unblurDoc() {
 
 	$('.autogen_class_views_read2_page_blur_promo').remove();
 
-	$('.page_blur_promo').remove();
+	$('.promo').remove();	
 	$('.page_blur_promo_overlay').remove();
+
+	// $('.page_blur_promo').remove();
+	// $('.page_blur_promo_overlay').remove();
 
 	$('.between_page_ads').remove();
 

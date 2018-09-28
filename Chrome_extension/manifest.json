@@ -1,7 +1,7 @@
 {
-    "name": "Unblur Scribd",
-    "description": "Unblur Scribd duh!",
-    "version": "1.7",
+    "name": "Unblur The Page",
+    "description": "Unblur the page duh!",
+    "version": "1.9.1",
     "permissions": [
         "activeTab"
     ],
